@@ -1,0 +1,11 @@
+{
+ "name": "heisicoin",
+ "website": "https://coin.naturegas.top",
+ "description": "HECO",
+ "explorer": "https://hecoinfo.com/token/0xc20ee002ca78353db83b9ff61d579fa64374ee70",
+ "type": "HECO",
+ "symbol": "NGH",
+ "decimals": 8,
+ "status": "active",
+ "id": "0xc20ee002ca78353db83b9ff61d579fa64374ee70"
+}
